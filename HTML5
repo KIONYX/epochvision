@@ -1,0 +1,18 @@
+<!DOCTYPE html> //html5 DTD: declaration...
+<html dir="ltr" language="en-US"> //initiate html runtime, declare text-flo dir,together with document render to language...
+<head> //head container for meta infos...
+<meta http-equiv="content-type" content="text/html; charset="utf-8" />
+<meta name="robot" content="noindex nofollow" />
+<meta name="viewport" content="width="device-width initial-scale=1.0">
+<title>HTML5 document</title>
+<link class="" href="#" rel="" type="" />
+<link class="" href="#" rel="" type="" />
+<link class="" href="#" rel="" type="" />
+<link class="" href="#" rel="" type="" />
+</head>
+<body>
+<iframe src="https://www.github.com/KIONYX/epochvision/new/main" style="height:50vh; width:50vw; flex:center; justify-self:center;" title="epochvision.inc::Thanks...">
+</iframe>
+<h1>Howdy, Welcome to <a href="https://www.github.com/KIONYX/epochvision/new/main" title="NB: this is a link!">epochvision.inc</a>
+</body>
+<html>
